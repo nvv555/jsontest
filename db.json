@@ -1,4 +1,5 @@
-[
+{
+    "country": [
     {"countryId" : 1, "Iso2Code": "RU", "Name": "Россия"},
     {"countryId" : 2, "Iso2Code": "AT", "Name": "Австрия"},
     {"countryId" : 3, "Iso2Code": "AZ", "Name": "Азербайджан"},
@@ -31,3 +32,4 @@
     {"countryId" : 30, "Iso2Code": "FR", "Name": "Франция"},
     {"countryId" : 31, "Iso2Code": "CZ", "Name": "Чехия"}
     ]
+}
