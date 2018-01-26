@@ -28,7 +28,6 @@
     {"countryId" : 26, "Iso2Code": "RO", "Name": "Румыния"},
     {"countryId" : 27, "Iso2Code": "TJ", "Name": "Таджикистан"},
     {"countryId" : 28, "Iso2Code": "TR", "Name": "Турция"},
-    {"countryId" : 29, "Iso2Code": "UZ", "Name": "Узбекистан"},
-    {"countryId" : 30, "Iso2Code": "FR", "Name": "Франция"},
+    {"countryId" : 29, "Iso2Code": "UZ", "Name": "Узбекистан"}
     ]
 }
