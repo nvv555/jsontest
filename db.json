@@ -39,7 +39,7 @@
 			"currences": "Рубль",
 			"fullAddress": "Тимирязевская ул., 19",
 			"latitude": "55.812954",
-			"longtitude": "37.566347"
+			"longitude": "37.566347"
 		},
 		{
 			"pointId": 2,
@@ -49,7 +49,7 @@
 			"currences": "Доллар, Рубль, Евро",
 			"fullAddress": "Астрадамская ул., 4, Москва, 127422",
 			"latitude": "55.812518",
-			"longtitude": "37.565230"
+			"longitude": "37.565230"
 		},
 		{
 			"pointId": 3,
@@ -59,7 +59,7 @@
 			"currences": "Доллар, Рубль, Евро",
 			"fullAddress": "Тимирязевская ул., 10/12, Москва, 127422",
 			"latitude": "55.811754",
-			"longtitude": "37.568573"
+			"longitude": "37.568573"
 		},
 		{
 			"pointId": 4,
@@ -69,7 +69,7 @@
 			"currences": "Доллар, Рубль, Евро",
 			"fullAddress": "Тимирязевская ул., 2/3, Москва, 127287",
 			"latitude": 55.807777,
-			"longtitude": 37.573036
+			"longitude": 37.573036
 		},
 		{
 			"pointId": 5,
@@ -79,7 +79,7 @@
 			"currences": "Доллар, Рубль, Евро",
 			"fullAddress": "Нижний Сусальный пер., 5, стр 25, Москва, 105064",
 			"latitude": 55.760878,
-			"longtitude": 37.663047
+			"longitude": 37.663047
 		}
 	]
 }
