@@ -1,6 +1,6 @@
 {
     "country": [
-    {"countryId" : 1, "iso2Code": "RU", "name": "Russia", "zoom": 5},
+    {"countryId" : 1, "iso2Code": "RU", "name": "Russia", "zoom": 3},
     {"countryId" : 2, "iso2Code": "AT", "name": "Austria", "zoom": 5},
     {"countryId" : 3, "iso2Code": "AZ", "name": "Azerbaijan", "zoom": 5},
     {"countryId" : 4, "iso2Code": "BY", "name": "Belarus", "zoom": 5},
